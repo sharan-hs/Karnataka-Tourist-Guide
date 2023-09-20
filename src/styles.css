@@ -1,0 +1,18 @@
+.App {
+  max-width: 700px;
+  margin: auto;
+  padding: 1.5rem;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.placeButton {
+  color: white;
+  background-color: black;
+  margin: 20px;
+  padding: 10px 20px;
+  border-radius: 50px;
+}
